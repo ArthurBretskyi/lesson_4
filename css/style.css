@@ -1,0 +1,49 @@
+.title {
+  color: brown;
+  font-family: "Larsseit";
+  font-weight: 700;
+  font-style: normal;
+}
+.about-text {
+  color: red;
+}
+#history {
+  color: aquamarine;
+}
+
+/* Приорітетність в дії */
+.history-block p {
+  color: blueviolet;
+}
+.history-text {
+  font-family: "Lato";
+  font-weight: 700;
+  font-style: normal;
+  color: aliceblue;
+}
+/* Приорітетність в дії */
+
+.manufacturing-title ~ h2 {
+  color: blue;
+}
+.references-list .references-item {
+  color: aqua;
+}
+.manufacturing-title,
+.popularity-text {
+  font-family: "Lato";
+  font-weight: 900;
+  font-style: normal;
+  color: yellowgreen;
+}
+li {
+  font-family: "Larsseit";
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(133, 133, 29);
+}
+body {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-style: normal;
+}
